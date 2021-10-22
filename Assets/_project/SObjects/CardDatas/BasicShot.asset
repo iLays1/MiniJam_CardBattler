@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fbe2f08a91259c468d594a2a0f35299, type: 3}
+  m_Name: BasicShot
+  m_EditorClassIdentifier: 
+  cardName: Fire Gun
+  cardCost: 1
+  cardDesc: '-1 Ammo
+
+    Deal 4 damage'
+  cardImage: {fileID: 0}
+  effects:
+  - {fileID: 11400000, guid: d760e77619e856346bbafcaa73f048fb, type: 2}
+  - {fileID: 11400000, guid: 1e936311ee13a1448a4c5b289631a200, type: 2}
